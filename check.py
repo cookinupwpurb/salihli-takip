@@ -16,7 +16,7 @@ BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
 
 CHECK_INTERVAL_SECONDS = 60
-CHECKS_PER_RUN = 9
+CHECKS_PER_RUN = 1
 
 PRIORITY_KEYWORDS = (
     "zabıt", "zabit", "katip", "kâtip", "nihai",
